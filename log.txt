@@ -1,0 +1,1 @@
+{"front":"Who is the president in 2017 USA?","back":"trump","type":"basic"};{"text":"obama was president in 2008.","cloze":"obama","clozeDeleted":"________ was president in 2008.","type":"cloze"};{"front":"what language did you use to create this app?","back":"node.js","type":"basic"};

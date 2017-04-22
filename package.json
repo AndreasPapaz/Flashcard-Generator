@@ -1,0 +1,26 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "descrition": "",
+  "main": "app.js",
+  "scritps": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasPapaz/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreasPapaz/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/AndreasPapaz/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
